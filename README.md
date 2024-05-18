@@ -24,3 +24,8 @@ Tenemos que modificar el dato que esta en el recuadro por el siguiente valor: �
 Estas son las conexiones que se tienen que hacer entre el lector PN532 y el ESP32, la comunicación que estaremos manejando será por SPI, revisa que tengas configurado el PN532 para este tipo de comunicación.
 
 guia obtenida de https://blog.uelectronics.com/tarjetas-desarrollo/lee-tarjetas-rfid-con-pn532-y-esp32/ 
+
+### participantes 
+celso 
+elder 
+isaac
